@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks5.txt
+https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt

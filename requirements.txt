@@ -1,6 +1,19 @@
+aiohttp
 asyncio
-json
-ssl
-websockets-proxy
+websockets
 fake-useragent
+aiohttp-retry  # For potential future error handling in requests
+uvloop  # For non-blocking I/O performance improvements
 loguru
+attrs  # Dependency for loguru
+
+
+
+
+# Optional / Future & Dev
+#websockets-redis  # For potential future websocket management
+#redis   # Dependency for potential websocket management with redis
+#python-rapidjson  # For potential performance improvements with JSON handling
+# Optional, depending on proxy usage
+#requests  # For potential external proxy fetching (if not using aiohttp)
+
